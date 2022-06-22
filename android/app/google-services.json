@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2654231246",
+    "project_id": "lilapp-9f777",
+    "storage_bucket": "lilapp-9f777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2654231246:android:aaf18baab7b1ca996d4e9f",
+        "android_client_info": {
+          "package_name": "com.example.lilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2654231246-dutrqfkn0ponqbm4dll4n408gqgut995.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2KOjY3xlDFo8RIiawj3wdpmjAvdrBeXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2654231246-dutrqfkn0ponqbm4dll4n408gqgut995.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
